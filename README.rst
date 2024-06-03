@@ -38,7 +38,6 @@ Features for making documents include:
 - Section and page breaks
 - Images
 
-
 Editing documents
 -----------------
 
